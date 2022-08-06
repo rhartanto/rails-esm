@@ -1,2 +1,0 @@
-(()=>{"use strict";const e=("books-table",document.getElementById("books-table")?.tBodies[0]?.rows?.length||0);console.log(e),document.getElementById("rows-total").innerHTML=`${e}`})();
-//# sourceMappingURL=book_list.map

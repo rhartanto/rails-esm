@@ -53,7 +53,7 @@ Rails.application.configure do
   # Highlight code that triggered database queries in logs.
   config.active_record.verbose_query_logs = true
 
-  config.assets.js_compressor = :uglifier
+  # config.assets.js_compressor = :uglifier
   config.assets.css_compressor = :sass
   config.assets.check_precompiled_asset = false
 
